@@ -5,6 +5,15 @@
       "articles": [
         {
           "description": "",
+          "link": "https://xkcd.com/2460/",
+          "publishedOn": "2021-05-07T04:00:00.000Z",
+          "wordCount": 183,
+          "sourceHref": "https://xkcd.com/rss.xml",
+          "sourceTitle": "xkcd.com",
+          "title": "Vaccinated"
+        },
+        {
+          "description": "",
           "link": "https://xkcd.com/2459/",
           "publishedOn": "2021-05-05T04:00:00.000Z",
           "wordCount": 185,
