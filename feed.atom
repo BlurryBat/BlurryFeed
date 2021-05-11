@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlurryBat.github.io/BlurryFeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T00:07:05.583Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-11T00:06:45.957Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://BlurryBat.github.io/BlurryFeed/index.html"/>
     <link rel="self" href="https://BlurryBat.github.io/BlurryFeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[90's Kid Space Program]]></title>
+        <id>https://xkcd.com/2461/</id>
+        <link href="https://xkcd.com/2461/"/>
+        <updated>2021-05-10T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaccinated]]></title>
         <id>https://xkcd.com/2460/</id>
@@ -29,42 +38,6 @@
         <id>https://xkcd.com/2458/</id>
         <link href="https://xkcd.com/2458/"/>
         <updated>2021-05-03T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After the Pandemic]]></title>
-        <id>https://xkcd.com/2457/</id>
-        <link href="https://xkcd.com/2457/"/>
-        <updated>2021-04-30T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Scientific Paper]]></title>
-        <id>https://xkcd.com/2456/</id>
-        <link href="https://xkcd.com/2456/"/>
-        <updated>2021-04-28T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virus Consulting]]></title>
-        <id>https://xkcd.com/2455/</id>
-        <link href="https://xkcd.com/2455/"/>
-        <updated>2021-04-26T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fully Vaccinated]]></title>
-        <id>https://xkcd.com/2454/</id>
-        <link href="https://xkcd.com/2454/"/>
-        <updated>2021-04-23T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
         </author>
