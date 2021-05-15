@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlurryBat.github.io/BlurryFeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T00:18:24.642Z</updated>
+    <updated>2021-05-15T00:18:03.693Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://BlurryBat.github.io/BlurryFeed/index.html"/>
     <link rel="self" href="https://BlurryBat.github.io/BlurryFeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Astrophotography]]></title>
+        <id>https://xkcd.com/2463/</id>
+        <link href="https://xkcd.com/2463/"/>
+        <updated>2021-05-14T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA Award]]></title>
         <id>https://xkcd.com/2462/</id>
