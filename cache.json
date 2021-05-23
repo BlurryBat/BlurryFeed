@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2466/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2466/",
+          "publishedOn": "2021-05-21T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "In Your Classroom"
+        },
+        {
           "id": "https://xkcd.com/2465/",
           "author": null,
           "description": "",
