@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlurryBat.github.io/BlurryFeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T00:19:13.400Z</updated>
+    <updated>2021-05-25T00:19:51.708Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://BlurryBat.github.io/BlurryFeed/index.html"/>
     <link rel="self" href="https://BlurryBat.github.io/BlurryFeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wikipedia Caltrops]]></title>
+        <id>https://xkcd.com/2467/</id>
+        <link href="https://xkcd.com/2467/"/>
+        <updated>2021-05-24T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In Your Classroom]]></title>
         <id>https://xkcd.com/2466/</id>
