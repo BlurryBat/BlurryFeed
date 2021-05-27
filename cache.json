@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2468/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2468/",
+          "publishedOn": "2021-05-26T04:00:00.000Z",
+          "wordCount": 183,
+          "title": "Inheritance"
+        },
+        {
           "id": "https://xkcd.com/2467/",
           "author": null,
           "description": "",
@@ -98,5 +107,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }
