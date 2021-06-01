@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2470/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2470/",
+          "publishedOn": "2021-05-31T04:00:00.000Z",
+          "wordCount": 187,
+          "title": "Next Slide Please"
+        },
+        {
           "id": "https://xkcd.com/2469/",
           "author": null,
           "description": "",
