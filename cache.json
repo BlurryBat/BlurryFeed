@@ -112,18 +112,9 @@
           "publishedOn": "2021-05-05T04:00:00.000Z",
           "wordCount": 185,
           "title": "March 2020"
-        },
-        {
-          "id": "https://xkcd.com/2458/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2458/",
-          "publishedOn": "2021-05-03T04:00:00.000Z",
-          "wordCount": 185,
-          "title": "Bubble Wrap"
         }
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }

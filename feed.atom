@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlurryBat.github.io/BlurryFeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T01:03:02.781Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T01:07:54.331Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://BlurryBat.github.io/BlurryFeed/index.html"/>
     <link rel="self" href="https://BlurryBat.github.io/BlurryFeed/feed.atom"/>
     <entry>
@@ -110,15 +110,6 @@
         <id>https://xkcd.com/2459/</id>
         <link href="https://xkcd.com/2459/"/>
         <updated>2021-05-05T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Wrap]]></title>
-        <id>https://xkcd.com/2458/</id>
-        <link href="https://xkcd.com/2458/"/>
-        <updated>2021-05-03T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
         </author>
