@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2472/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2472/",
+          "publishedOn": "2021-06-04T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Fuzzy Blob"
+        },
+        {
           "id": "https://xkcd.com/2471/",
           "author": null,
           "description": "",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-05-10T04:00:00.000Z",
           "wordCount": 189,
           "title": "90's Kid Space Program"
-        },
-        {
-          "id": "https://xkcd.com/2460/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2460/",
-          "publishedOn": "2021-05-07T04:00:00.000Z",
-          "wordCount": 183,
-          "title": "Vaccinated"
         }
       ]
     }
