@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlurryBat.github.io/BlurryFeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:15:27.471Z</updated>
+    <updated>2021-06-11T00:15:03.625Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://BlurryBat.github.io/BlurryFeed/index.html"/>
     <link rel="self" href="https://BlurryBat.github.io/BlurryFeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[First Time Since Early 2020]]></title>
+        <id>https://xkcd.com/2474/</id>
+        <link href="https://xkcd.com/2474/"/>
+        <updated>2021-06-09T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Launch]]></title>
         <id>https://xkcd.com/2473/</id>
@@ -101,15 +110,6 @@
         <id>https://xkcd.com/2463/</id>
         <link href="https://xkcd.com/2463/"/>
         <updated>2021-05-14T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA Award]]></title>
-        <id>https://xkcd.com/2462/</id>
-        <link href="https://xkcd.com/2462/"/>
-        <updated>2021-05-12T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
         </author>

@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2474/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2474/",
+          "publishedOn": "2021-06-09T04:00:00.000Z",
+          "wordCount": 191,
+          "title": "First Time Since Early 2020"
+        },
+        {
           "id": "https://xkcd.com/2473/",
           "author": null,
           "description": "",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-05-14T04:00:00.000Z",
           "wordCount": 183,
           "title": "Astrophotography"
-        },
-        {
-          "id": "https://xkcd.com/2462/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2462/",
-          "publishedOn": "2021-05-12T04:00:00.000Z",
-          "wordCount": 185,
-          "title": "NASA Award"
         }
       ]
     }
