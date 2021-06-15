@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2476/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2476/",
+          "publishedOn": "2021-06-14T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Base Rate"
+        },
+        {
           "id": "https://xkcd.com/2475/",
           "author": null,
           "description": "",
