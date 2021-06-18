@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2477/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2477/",
+          "publishedOn": "2021-06-16T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Alien Visitors"
+        },
+        {
           "id": "https://xkcd.com/2476/",
           "author": null,
           "description": "",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-05-21T04:00:00.000Z",
           "wordCount": 187,
           "title": "In Your Classroom"
-        },
-        {
-          "id": "https://xkcd.com/2465/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2465/",
-          "publishedOn": "2021-05-19T04:00:00.000Z",
-          "wordCount": 185,
-          "title": "Dimensional Chess"
         }
       ]
     }
