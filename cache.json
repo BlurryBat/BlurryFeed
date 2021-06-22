@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2479/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2479/",
+          "publishedOn": "2021-06-21T04:00:00.000Z",
+          "wordCount": 183,
+          "title": "Houseguests"
+        },
+        {
           "id": "https://xkcd.com/2478/",
           "author": null,
           "description": "",
