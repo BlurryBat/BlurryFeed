@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BlurryBat.github.io/BlurryFeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:14:29.560Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:11:50.666Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://BlurryBat.github.io/BlurryFeed/index.html"/>
     <link rel="self" href="https://BlurryBat.github.io/BlurryFeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No, The Other One]]></title>
+        <id>https://xkcd.com/2480/</id>
+        <link href="https://xkcd.com/2480/"/>
+        <updated>2021-06-23T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Houseguests]]></title>
         <id>https://xkcd.com/2479/</id>

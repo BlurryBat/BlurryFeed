@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2480/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2480/",
+          "publishedOn": "2021-06-23T04:00:00.000Z",
+          "wordCount": 189,
+          "title": "No, The Other One"
+        },
+        {
           "id": "https://xkcd.com/2479/",
           "author": null,
           "description": "",
@@ -116,5 +125,5 @@
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }
