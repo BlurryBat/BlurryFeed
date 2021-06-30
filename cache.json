@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2482/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2482/",
+          "publishedOn": "2021-06-28T04:00:00.000Z",
+          "wordCount": 185,
+          "title": "Indoor Socializing"
+        },
+        {
           "id": "https://xkcd.com/2481/",
           "author": null,
           "description": "",
@@ -103,15 +112,6 @@
           "publishedOn": "2021-06-02T04:00:00.000Z",
           "wordCount": 185,
           "title": "Hippo Attacks"
-        },
-        {
-          "id": "https://xkcd.com/2470/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2470/",
-          "publishedOn": "2021-05-31T04:00:00.000Z",
-          "wordCount": 187,
-          "title": "Next Slide Please"
         }
       ]
     }
